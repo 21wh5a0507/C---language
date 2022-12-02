@@ -1,0 +1,13 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+	float cost;
+	cout<<"Enter Cost :";
+	cin>>cost;
+	double tax,tip;
+	tax=(cost/100) * 18;
+	tip=((cost-tax)/100) * 5;
+	cout<<tax+tip+cost<<"\n";
+	return 0;
+	
+}
