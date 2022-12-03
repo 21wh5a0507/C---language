@@ -6,7 +6,7 @@ int main(){
 	cin>>x;
 	cout<<"Enter 2nd Container: ";
 	cin>>y;
-	z=x*0.10f + y*0.25f;
+	z=x*0.10 + y*0.25;
 	cout<<z;
 	return 0;
 }
