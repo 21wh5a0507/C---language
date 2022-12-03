@@ -1,9 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	string name="Vineetha";
-	string Mailing_Address="21WH5A0507@bvrithyderabad.edu.in";
-	cout<<name<<"\n";
-	cout<<Mailing_Address<<"\n";
+	cout<<"Name is Vineetha"<<"\n"<<"Mailing Address is Rajanna Sircilla";
 	return 0;
 }
