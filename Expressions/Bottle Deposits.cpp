@@ -7,6 +7,6 @@ int main(){
 	cout<<"Enter 2nd Container: ";
 	cin>>y;
 	z=x*0.10 + y*0.25;
-	printf("%.2f",z);
+	printf("$%.2f",z);
 	return 0;
 }
